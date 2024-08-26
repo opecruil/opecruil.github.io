@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://opecruil.github.io/sitemap.html.gz
+Sitemap: https://opecruil.github.io/app/sitemap.html.gz
+Sitemap: https://opecruil.github.io/assets/sitemap.html.gz
+Sitemap: https://opecruil.github.io/css/sitemap.html.gz
+Sitemap: https://opecruil.github.io/includes/sitemap.html.gz
+Sitemap: https://opecruil.github.io/item/sitemap.html.gz
+Sitemap: https://opecruil.github.io/src/sitemap.html.gz
